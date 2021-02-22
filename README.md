@@ -1,7 +1,7 @@
 ### Hi world 👋
 
 [![ GitHub Banner](./assets/banner.png)](https://terrasystem.cv)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/vaz_erickson)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/A_coyas)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ailton-duarte/)
 
 ![Coyas profile view count](https://komarev.com/ghpvc/?username=coyas&color=brightgreen)
