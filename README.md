@@ -7,7 +7,7 @@
 ![Coyas profile view count](https://komarev.com/ghpvc/?username=coyas&color=brightgreen)
 
 <br>
-![](https://hit.yhype.me/github/profile?user_id=8118827)
+![Coyas profile stats](https://hit.yhype.me/github/profile?user_id=8118827)
 <br>
 
 ## &#x1f4c8; GitHub Stats
