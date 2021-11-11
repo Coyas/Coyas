@@ -9,6 +9,7 @@
 <br>
 ![Coyas profile stats](https://hit.yhype.me/github/profile?user_id=8118827)
 <br>
+![qsd](https://terrasystem.cv)
 
 ## &#x1f4c8; GitHub Stats
 
