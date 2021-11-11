@@ -35,7 +35,7 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
 
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coyas)](https://github.com/coyas/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coyas)]
 <!--
 **Coyas/Coyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
