@@ -33,34 +33,9 @@
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=Jquery&logoColor=white&color=4AB197)
-
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
 <br>
-
-![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coyas)](https://github.com/coyas/github-readme-stats)
 <!--
 **Coyas/Coyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
