@@ -5,8 +5,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ailton-duarte/)
 
 ![Coyas profile view count](https://komarev.com/ghpvc/?username=coyas&color=brightgreen)
-<br>
 
+<br>
+![stats](https://hit.yhype.me/github/profile?user_id=8118827)
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
