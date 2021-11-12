@@ -1,15 +1,18 @@
 ### Hi world 👋
 
 [![ GitHub Banner](./assets/banner.png)](https://terrasystem.cv)
+
+![](https://komarev.com/ghpvc/?username=coyas&color=brightgreen)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/A_coyas)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ailton-duarte/)
 
-![Coyas profile view count](https://komarev.com/ghpvc/?username=coyas&color=brightgreen)
+## Atividades
 
-<br>
-![Coyas profile stats](https://hit.yhype.me/github/profile?user_id=8118827)
-<br>
-[qsd](https://terrasystem.cv)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coyas)](https://github.com/anuraghazra/github-readme-stats)
+
+## yhype profile
+
+![](https://hit.yhype.me/github/profile?user_id=8118827)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -21,8 +24,6 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=coyas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="coya's GitHub Stats" />
 </a>
 
-<br>
-<br>
 
 ## 💼 Skills
 
@@ -36,9 +37,6 @@
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=4AB197)
-
-<br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coyas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Coyas/Coyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
