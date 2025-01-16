@@ -4,9 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/A_coyas)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ailtonmduarte/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=coyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<a href="https://github.com/coyas"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=coyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<a href="https://github.com/coyas"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=coyas&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 
 ## &#x1f4c8; GitHub Stats
