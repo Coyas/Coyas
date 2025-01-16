@@ -6,9 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=coyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github-readme-streak-stats-eight.vercel.app/?user=coyas"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=coyas&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-
+<a href="https://github.com/zeeshan0080"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=zeeshan0080" alt="GitHub Streak" />
 
 
 ## &#x1f4c8; GitHub Stats
