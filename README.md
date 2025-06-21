@@ -57,7 +57,7 @@ philosophy: "Code is purpose"
 
   - 🚀 [ChitraOS](https://github.com/Coyas/chitraOS): Sistema Operativo feito inteiramente em RUST.
   - 🧙‍♂️ [DoutorChip](https://github.com/TerraSystemWS/DoutorChip): Um Doutor que alivia as dores das maquinas? 
-  - 📦 [KriolStock](https://github.com/KriolStock-lda/kriolstockweb): Automatizando o tédio.
+  - 📦 [KriolStock](https://github.com/KriolStock-lda/kriolstockweb): Assets data Store.
 
 </details>
 
@@ -84,5 +84,4 @@ philosophy: "Code is purpose"
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   <br>
   <em>“To infinity and beyond.”</em>
-  <em>"...No Code No Life...</em>
 </p>
