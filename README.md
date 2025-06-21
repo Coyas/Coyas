@@ -28,7 +28,7 @@ philosophy: "Code is purpose"
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,postgres,mongodb,docker,git,mysql,java,c/c++,rust,fastapi,laravel,quarkus,pandas,aws,kubernets" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,postgres,mongodb,docker,git,mysql,java,c/c++,rust,fastapi,aws" />
 </p>
 
 ---
