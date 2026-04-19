@@ -11,15 +11,15 @@
 
 ```yaml
 name: "coyas"
-status: "Full Stack Developer"
+status: "Software Engineer · Backend & Cloud"
 focus:
-  - React
-  - Node.js
-  - TypeScript
-  - APIs
   - Java
+  - Spring Boot
+  - Node.js
   - Python
-  - C/C++
+  - AWS
+  - Docker
+  - Microservices
 philosophy: "Code is purpose"
 ```
 
@@ -27,9 +27,33 @@ philosophy: "Code is purpose"
 
 ## ⚙️ Tech Stack
 
+**Core**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,postgres,mongodb,docker,git,mysql,java,c/c++,rust,fastapi,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,fastapi,django,react,nextjs" />
 </p>
+
+**Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
+</p>
+
+**Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+**Also know**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,rust,c" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🦀 [ChitraOS](https://github.com/Coyas/chitraOS) — Sistema Operativo feito inteiramente em Rust.
+- 🤖 [DoutorChip](https://github.com/TerraSystemWS/DoutorChip) — Um Doutor que alivia as dores das máquinas.
+- 📦 [KriolStock](https://github.com/KriolStock-lda/kriolstockweb) — Assets data Store.
 
 ---
 
@@ -50,19 +74,6 @@ philosophy: "Code is purpose"
 
 ---
 
-## 💡 Fun Projects
-
-<details>
-  <summary>🧹 Projetos com propósito</summary>
-
-  - 🚀 [ChitraOS](https://github.com/Coyas/chitraOS): Sistema Operativo feito inteiramente em RUST.
-  - 🧙‍♂️ [DoutorChip](https://github.com/TerraSystemWS/DoutorChip): Um Doutor que alivia as dores das maquinas? 
-  - 📦 [KriolStock](https://github.com/KriolStock-lda/kriolstockweb): Assets data Store.
-
-</details>
-
----
-
 ## 🗿 Quote of the Day
 
 > *"I'm something, not a place. I have a purpose, not a dream"*  
@@ -74,8 +85,7 @@ philosophy: "Code is purpose"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ailtonmduarte" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adidas.coyas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- <a href="https://seuportfolio.com"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>-->
+  <a href="mailto:ailton.m.duarte11@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -83,5 +93,5 @@ philosophy: "Code is purpose"
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   <br>
-  <em>“To infinity and beyond.”</em>
+  <em>"To infinity and beyond."</em>
 </p>
